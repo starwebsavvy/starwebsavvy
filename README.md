@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.gifer.com/QDyD.gif" />
-</div>
-
 ---
 
 ### :woman_technologist: About Me :
